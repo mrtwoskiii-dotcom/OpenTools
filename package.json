@@ -1,0 +1,28 @@
+{
+  "name": "opentools",
+  "version": "1.0.0",
+  "description": "A collection of lightweight, privacy-focused web utilities hosted entirely on GitHub Pages. No tracking, no backend, and no data collection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrtwoskiii-dotcom/OpenTools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mrtwoskiii-dotcom/OpenTools/issues"
+  },
+  "homepage": "https://github.com/mrtwoskiii-dotcom/OpenTools#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.13.2",
+    "commander": "^14.0.2",
+    "express": "^5.2.1",
+    "jest": "^30.2.0"
+  }
+}
